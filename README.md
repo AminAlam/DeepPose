@@ -17,7 +17,8 @@ This is a Deep Neural Network which can detect human joints from a picture. This
 ### Data Augmentation
 I have augmented the training set by fliping each image.
 
-
+### L2 Loss Plot
+![image 1](http://ee.sharif.edu/~amin/static/Deep/DeepPose_loss.png)
 
 ### Some Test Images
 | ![image 1](http://ee.sharif.edu/~amin/static/Deep/Pose_Deep_01.png)  | ![image 2](http://ee.sharif.edu/~amin/static/Deep/Pose_Deep_02.png)|
